@@ -13,7 +13,7 @@ To provide students, young professionals, and organizations with instant, cultur
 - **Deployment**: Vercel (frontend), Render/AWS (backend)
 
 ## 📈 Vision
-To become the preventive mental health infrastructure for educational institutions globally, making emotional wellness support as accessible and immediate as checking your phon
+To become the preventive mental health infrastructure for educational institutions globally, making emotional wellness support as accessible and immediate as checking your phone
 
 ---
 
